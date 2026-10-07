@@ -1,0 +1,32 @@
+# Visual Studio 
+.vs/ 
+*.user 
+*.suo 
+*.userosscache 
+*.sln.docstates 
+ 
+# Build output 
+**/bin/ 
+**/obj/ 
+ 
+# NuGet packages 
+packages/ 
+ 
+# Runtime uploaded files 
+**/Gallery/ 
+ 
+# Logs 
+*.log 
+logs/ 
+ 
+# Environment files 
+.env 
+.env.* 
+ 
+# Temporary files 
+*.tmp 
+*.temp 
+ 
+# Windows files 
+Thumbs.db 
+Desktop.ini 
